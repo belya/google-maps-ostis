@@ -1,0 +1,23 @@
+{
+  "sources": 
+  [
+    "src/googlemaps.js",
+    "src/namespaces.js",
+    "src/keynodes.js",
+    "src/model.js",
+    "src/object-factory.js",
+    "src/agent.js",
+    "src/bundle.js",
+    "src/map/view.js",
+    "src/map/controller.js",
+    "src/map/subscriber.js",
+    "src/modal/view.js",
+    "src/modal/controller.js",
+    "src/modal/subscriber.js",
+    "src/viewer.js"
+  ],
+  
+  "component": "src/component.js",
+
+  "target": "static/components/js/googlemaps/googlemaps.js"
+}

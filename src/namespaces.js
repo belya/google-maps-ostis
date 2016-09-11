@@ -1,0 +1,2 @@
+GoogleMaps.Map = {};
+GoogleMaps.Modal = {};
